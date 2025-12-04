@@ -15,4 +15,4 @@ Plan your tactics, flank the undead hordes, and survive wave after wave of relen
 Can your team hold the line? [Download now](https://apps.apple.com/us/app/svz-special-forces-vs-zombies/id6755044936) and fight for humanity!
 
 
-[Privacy Policy](https://svzdev.itch.io/svz/devlog/1127381/privacy-policy-svz-special-forces-against-zombies)
+[Privacy Policy](https://svzdev.github.io/privacy-policy.html)
