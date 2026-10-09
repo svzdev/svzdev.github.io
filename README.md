@@ -1,18 +1,19 @@
-# SVZ:Special Forces Against Zombies
-Assemble your ultimate anti-zombie squad!
+# Merge Arsenal
+Merge weapons. Build your squad. Hold the line.
 
-<img src="/assets/logo.png" alt="LOGO" width="300" height="300">
+<img src="/assets/merge-arsenal-icon.png" alt="Merge Arsenal game icon" width="300" height="300">
 
-In SVZ, you command elite soldiers equipped with drones, AK-47s, heavy machine guns, and explosive grenades.
-Plan your tactics, flank the undead hordes, and survive wave after wave of relentless zombies.
+Merge Arsenal combines weapon merging with squad defense. Buy weapons with coins, drag matching guns together to unlock stronger equipment, and equip your best weapon before the next fight.
 
-- Build & customize your squad
-- Deploy UAV drones for recon
-- Unlock real-world weapons: AK, M249, RPG
-- Co-op multiplayer support
-- Dynamic day/night survival missions
+Your squad attacks automatically as zombies approach. Use support items at the right moment, collect battle rewards, and return to the armory to upgrade again.
 
-Can your team hold the line? [Download now](https://apps.apple.com/us/app/svz-special-forces-vs-zombies/id6755044936) and fight for humanity!
+- Drag matching weapons together to merge
+- Equip stronger guns and strengthen your squad
+- Battle waves of zombies and unlock new recruits
+- Use touch controls and save progress on your device
 
+[View on the App Store](https://apps.apple.com/us/app/svz-special-forces-vs-zombies/id6755044936)
+
+Merge Arsenal is the upcoming update to SVZ: Special Forces VS Zombies. The current App Store version may still display the previous name and artwork.
 
 [Privacy Policy](https://svzdev.github.io/privacy-policy.html)
