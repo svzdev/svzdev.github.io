@@ -19,12 +19,12 @@ Merge Arsenal is the upcoming update to SVZ: Special Forces VS Zombies. The curr
 [Privacy Policy](https://svzdev.github.io/privacy-policy.html)
 
 
-## What He Left Behind
+## His Last Call
 
 The Bennett family mystery has dedicated game, support and privacy pages:
 
-- [Game](https://svzdev.github.io/what-he-left-behind.html)
-- [Support](https://svzdev.github.io/what-he-left-behind-support.html)
-- [Privacy](https://svzdev.github.io/what-he-left-behind-privacy-policy.html)
+- [Game](https://svzdev.github.io/his-last-call.html)
+- [Support](https://svzdev.github.io/his-last-call-support.html)
+- [Privacy](https://svzdev.github.io/his-last-call-privacy-policy.html)
 
-Legacy Zooli URLs redirect to these pages. The main Merge Arsenal site is unchanged.
+Legacy Zooli and previous working-title URLs redirect to these pages. The main Merge Arsenal site is unchanged.
