@@ -17,3 +17,14 @@ Your squad attacks automatically as zombies approach. Use support items at the r
 Merge Arsenal is the upcoming update to SVZ: Special Forces VS Zombies. The current App Store version may still display the previous name and artwork.
 
 [Privacy Policy](https://svzdev.github.io/privacy-policy.html)
+
+
+## What He Left Behind
+
+The Bennett family mystery has dedicated game, support and privacy pages:
+
+- [Game](https://svzdev.github.io/what-he-left-behind.html)
+- [Support](https://svzdev.github.io/what-he-left-behind-support.html)
+- [Privacy](https://svzdev.github.io/what-he-left-behind-privacy-policy.html)
+
+Legacy Zooli URLs redirect to these pages. The main Merge Arsenal site is unchanged.
